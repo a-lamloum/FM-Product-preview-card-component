@@ -8,10 +8,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [solution URL](https://github.com/a-lamloum/FM-Product-preview-card-component)
+- Live Site URL: [live site](https://a-lamloum.github.io/FM-Product-preview-card-component/)
 
 ### Built with
 
@@ -22,5 +20,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- Website - [Portfolio](https://www.your-site.com)
-- Frontend Mentor - [@a-lamloum](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Portfolio](https://a-lamloum.github.io/react-portfolio)
+- Frontend Mentor - [@a-lamloum](https://www.frontendmentor.io/profile/a-lamloum)
